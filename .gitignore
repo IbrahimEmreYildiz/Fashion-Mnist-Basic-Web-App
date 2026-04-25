@@ -1,0 +1,26 @@
+# Python / Virtual Environment
+venv/
+env/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Project Specific Data & Models (Optional - Remove if you want to track these)
+# If the datasets or models are large (>100MB), it's recommended to keep them in .gitignore
+data/
+model/
+
+# OS specific
+.DS_Store
+Thumbs.db
